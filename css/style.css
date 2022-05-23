@@ -30,7 +30,7 @@ html::-webkit-scrollbar-track {
 }
 
 html::-webkit-scrollbar-thumb {
-  background: #eacf4f;
+  background: FAB82C;
   border-radius: 5rem;
 }
 
@@ -51,7 +51,7 @@ section {
 .heading h3 {
   font-size: 3rem;
   text-transform: uppercase;
-  color: #eacf4f;
+  color: #FAB82C;
   margin-top: 1rem;
 }
 
@@ -60,7 +60,7 @@ section {
   display: block;
   width: 25%;
   height: 5px;
-  background-color: #eacf4f;
+  background-color: #FAB82C;
   margin: 20px auto;
 
 }
@@ -70,7 +70,7 @@ section {
   display: inline-block;
   margin-top: 1rem;
   cursor: pointer;
-  color: #eacf4f;
+  color: #FAB82C;
   border: 0.3rem solid #dedade;
   background: no-repeat;
   font-size: 1.7rem;
@@ -126,7 +126,7 @@ section {
 .header .navbar a:hover {
   text-decoration: underline;
   text-underline-offset: 1rem;
-  color: #eacf4f;
+  color: #FAB82C;
 }
 
 .header .navbar .space {
@@ -204,7 +204,7 @@ section {
 .home .content h3 {
   font-size: 4rem;
   text-transform: uppercase;
-  color: #eacf4f;
+  color: #FAB82C;
 }
 
 .home .content p {
@@ -244,7 +244,7 @@ section {
   line-height: 7rem;
   font-size: 2.5rem;
   color: #000;
-  background: #eacf4f;
+  background: #FAB82C;
   margin-bottom: 1rem;
   border-radius: 50%;
 }
@@ -253,7 +253,7 @@ section {
   padding: 1rem 0;
   font-size: 2rem;
   text-transform: uppercase;
-  color: #eacf4f;
+  color: #FAB82C;
 }
 
 .service .box p {
@@ -293,13 +293,13 @@ section {
 
 .menu .box-container .box .content .stars i {
   font-size: 1.7rem;
-  color: #eacf4f;
+  color: #FAB82C;
 }
 
 .menu .box-container .box .content h3 {
   font-size: 2rem;
   text-transform: uppercase;
-  color: #eacf4f;
+  color: #FAB82C;
 }
 
 .menu .box-container .box .content .price {
@@ -339,7 +339,7 @@ section {
 .about .content .title {
   font-size: 2.5rem;
   text-transform: uppercase;
-  color: #eacf4f;
+  color: #FAB82C;
 }
 
 .about .content p {
@@ -366,12 +366,12 @@ section {
           flex: 1 1 16rem;
   font-size: 1.5rem;
   text-transform: uppercase;
-  color: #eacf4f;
+  color: #FAB82C;
 }
 
 .about .content .icons h3 i {
   padding-right: .5rem;
-  color: #eacf4f;
+  color: #FAB82C;
 }
 
 .reviews .box-container {
@@ -397,7 +397,7 @@ section {
 .reviews .box-container .box h3 {
   font-size: 2rem;
   text-transform: uppercase;
-  color: #eacf4f;
+  color: #FAB82C;
 }
 
 .reviews .box-container .box p {
@@ -413,7 +413,7 @@ section {
 
 .reviews .box-container .box .stars i {
   font-size: 1.7rem;
-  color: #eacf4f;
+  color: #FAB82C;
 }
 
 .contact .row {
@@ -470,7 +470,7 @@ section {
   padding: 1rem 0;
   font-size: 2rem;
   text-transform: uppercase;
-  color: #eacf4f;
+  color: #FAB82C;
 }
 
 .contact .row .form .icons-container .icons p {
@@ -559,7 +559,7 @@ section {
 
 .blogs .box-container .box .image .icons a i {
   padding-right: .5rem;
-  color: #eacf4f;
+  color: #FAB82C;
 }
 
 .blogs .box-container .box .image .icons a:hover {
@@ -581,7 +581,7 @@ section {
 .blogs .box-container .box .content h3 {
   font-size: 2rem;
   text-transform: uppercase;
-  color: #eacf4f;
+  color: #FAB82C;
 }
 
 .blogs .box-container .box .content p {
@@ -609,7 +609,7 @@ section {
 }
 
 .footer .credit span {
-  color: #eacf4f;
+  color: #FAB82C;
 }
 
 @media (max-width: 1200px) {
